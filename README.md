@@ -10,5 +10,8 @@ Mouse rotation test video analysis with DeepLabCut
     * Place the bodycenter at the center of the circle
     * Measure the angle change of the nose for every frame
     * Total frames : 30 fps * 60 sec * 60 min (60 min video)
-  
+ 
+
+For more information, also see : 
+   * https://github.com/DeepLabCut/DeepLabCut
 
